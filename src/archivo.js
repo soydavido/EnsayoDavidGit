@@ -1,1 +1,1 @@
-console.log("Chao Mundo");
+console.log("Chao");
